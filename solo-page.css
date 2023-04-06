@@ -1,0 +1,60 @@
+.title {
+    color: #121212;
+
+}
+.image {
+    border-radius: 0px;
+    width: 380px;
+    border-color: black;
+    border-width: 4;
+    border: 3px solid ;
+}
+.paragraph {
+    justify-content: baseline;
+}
+.paragraph2{
+    padding-left: 110px;
+}px
+.email {
+    border-width: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-left: 400px;
+    margin-right: 110px;
+    border:3px solid black;
+}
+.join {
+    padding-top: 8px;
+    font-weight: bold ;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: #121212;
+    font-display: white;
+    margin-left: 450px;
+    margin-right: 110;
+    margin-top: 8px;
+    line-height: 15px;
+    display: block;
+    width: 200px;
+    color:white;
+    
+
+}
+
+.divide{
+    border-radius:18px;
+    border-color: black;
+    padding-top: 0px;
+    margin-top: 100p;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    border: 2px solid ;
+    padding-left: 30px;
+    padding-right: 30px; ;
+
+}

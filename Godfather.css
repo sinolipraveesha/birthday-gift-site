@@ -1,0 +1,7 @@
+@font-face {
+    src: url("index.js");
+    font-family: corleone;
+}
+h1 {
+    font-family: corleone;
+}

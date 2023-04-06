@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace ;
+}
+.card {
+    border-bottom: 6px solid #d8cefe;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto ;     
+    width: 400px;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+}
+.italic{
+
+}
+.border-blue{
+    border: 1px dotted blue;
+}
